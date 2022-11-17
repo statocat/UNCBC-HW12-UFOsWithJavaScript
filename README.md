@@ -20,7 +20,7 @@ While the additional filters allow visitors to drill further down into the data,
 
 Several more useful features could be added to the table. Two examples follow:
 
-* The Filter search input boxes could be replaced by interactive dropdown menus. These menus could dynamically update based on previously applied filters as well as typed input into the field
+* The Filter search input boxes could be replaced by interactive dropdown menus. These menus could dynamically update based on previously applied filters as well as typed input into the field.
 
 * The table header could be updated with sort buttons, so that the table could be sorted by any of the seven columns rather than default chronological-date order.
 
