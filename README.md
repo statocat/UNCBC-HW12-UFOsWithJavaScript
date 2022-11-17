@@ -16,7 +16,7 @@ This volume of data can be overwhelming to wade through, so a Filter Search elem
 
 # Summary
 
-While the additional filter allow visitors to drill further down into the data, one drawback of this new design is that the filter search input boxes are not case-agnostic, e.g. if a visitor were to filter for "San Diego" rather than "san diego" all relevant entries would be inadvertently dropped from the table.
+While the additional filters allow visitors to drill further down into the data, one drawback of this new design is that the filter search input boxes are not case-agnostic, e.g. if a visitor were to filter for "San Diego" rather than "san diego" all relevant entries would be inadvertently dropped from the table.
 
 Several more useful features could be added to the table. Two examples follow:
 
