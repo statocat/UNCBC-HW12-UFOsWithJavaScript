@@ -10,7 +10,7 @@ Next the visitor will encounter a table composed from data collected from "citiz
 
 ![FullTable](FullTable.png)
 
-This volume of data can be overwhelming to wade through, so a Filter Search element was added to the left of the table to allow the visitor to filter the data by Date, City, Country, and Shape. As an example, if the table is filtered to only show observations of spherical UFOs sighted in San Diego on January 1, 2010 all but one entry will be dropped from the table. To accomplish this, the visitor should enter the desired date in the designated textbox in M(M)/D(D)/YYYY format and all other filters using only lowercase characters.
+This volume of data can be overwhelming to wade through, so a Filter Search element was added to the left of the table to allow the visitor to filter the data by Date, City, Country, and Shape. As an example, if the table is filtered to only show observations of spherical UFOs sighted in San Diego on January 1, 2010 all but one entry will be dropped from the table. To accomplish this, the visitor should enter the desired date in the designated textbox in M(M)/D(D)/YYYY format and all other filters using only lowercase characters, as demonstrated below.
 
 ![FilteredTable](FilteredTable.png)
 
